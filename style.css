@@ -1,0 +1,78 @@
+
+/*************************
+ © Sahadete Jashari
+  *************************/
+
+@import 'https://fonts.googleapis.com/css?family=Baloo+Paaji';
+
+
+#player1 { 
+	margin-left: 30%;
+	color:blue;
+	font-family: 'Baloo Paaji', cursive;
+}
+#player2 {
+	color:red;
+	font-family: 'Baloo Paaji', cursive;
+}
+
+#button1{
+	background-color: blue;
+	color: white;
+	padding: 7px;
+	border: none;
+	border-radius: 5px;
+	font-family: 'Baloo Paaji', cursive;
+}
+
+#button2{
+	background-color: red;
+	color: white;
+	padding: 7px;
+	border: none;
+	border-radius: 5px;
+	font-family: 'Baloo Paaji', cursive;
+}
+
+#tabela
+{	
+
+	margin-top : 5%;
+	margin-left: 40%;
+	
+}
+
+.buttons
+{
+	width:10%;
+	height:10%;
+	background-color:#CCCCCC;
+	font-size:30pt;
+	border-radius: 7px;
+	border: none;
+}
+#newgame
+{	height:10%;
+	width:20%;
+	margin-top : 5%;
+	border-radius: 7px;
+	border: none;
+	margin-left: 39%;
+	font-family: 'Baloo Paaji', cursive;
+	
+}
+#nextplayer
+{	height:10%;
+	width:20%;
+	margin-top:5%;
+	border-radius: 7px;
+	border: none;
+	margin-left: 39%;
+}
+
+#quote{
+	bottom: 0;
+    right: 15;
+	position: fixed;
+	font-family: 'Baloo Paaji', cursive;
+}
